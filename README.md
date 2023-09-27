@@ -1,4 +1,4 @@
-﻿# fruit-brust-assignment-3
+﻿# fruit-brust-assignment
 
  Live Link: https://alamnahid.github.io/fruit-brust-assignment-3/
 
